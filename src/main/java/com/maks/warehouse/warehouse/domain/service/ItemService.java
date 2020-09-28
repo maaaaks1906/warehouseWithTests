@@ -8,4 +8,5 @@ public interface ItemService {
 
     List<Item> getItems();
 
+    Item findItem(String item);
 }
