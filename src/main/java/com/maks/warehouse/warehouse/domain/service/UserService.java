@@ -11,4 +11,5 @@ public interface UserService {
 
     boolean verifyCredentials(User user);
 
+    void registerNewUser(User user);
 }
