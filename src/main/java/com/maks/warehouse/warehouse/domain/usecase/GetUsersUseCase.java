@@ -5,7 +5,6 @@ import com.maks.warehouse.warehouse.domain.service.UserService;
 
 import java.util.List;
 
-
 public class GetUsersUseCase {
 
     private UserService userService;
